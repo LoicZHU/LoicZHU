@@ -15,14 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<span>
+  <img src="https://komarev.com/ghpvc/?username=loiczhu&style=flat" alt="Loïc ZHU's profile views" />
+</span>
+
 - 📜 __Certifications__:
   - Opquast: [expert (945 / 1000)](https://directory.opquast.com/fr/certificat/XMWIV1/)
   - TOSA PHP: [operational (633.33 / 1000)](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ)
-- 🧰 __Stack__: MEAN (+ Sass, Bootstrap, React, GraphQL, SQL, Git)
+- 🧰 __Stack__: MEAN (+ Sass, Bootstrap, React, SQL, Git)
 - 🔗 __Links__:
   - [GitLab](http://gitlab.com/LoicZHU)
   - [LinkedIn](http://linkedin.com/in/loiczhu)
 
-![Loic's GitHub stats](https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula)
+<div>
+  <span align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" alt="Loïc ZHU's GitHub stats"/>
+  </span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=8&theme=dracula&layout=compact)
+  <span align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=6&theme=dracula&layout=compact" alt="Loïc ZHU's most used languages" />
+  </span>
+</div>
