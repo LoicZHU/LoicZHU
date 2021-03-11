@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   - [LinkedIn](http://linkedin.com/in/loiczhu)
 
 ## GitHub stats
-<div>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits" alt="Loïc ZHU's GitHub stats"/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=6&theme=dracula&layout=compact" alt="Loïc ZHU's most used languages" />
-</div>
+</p>
