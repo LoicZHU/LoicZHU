@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&include_all_commits" alt="Loïc ZHU's GitHub stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=6&theme=dracula&layout=compact" alt="Loïc ZHU's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&card_width=2&langs_count=6&theme=dracula&layout=compact" alt="Loïc ZHU's most used languages" />
 </p>
 
 
