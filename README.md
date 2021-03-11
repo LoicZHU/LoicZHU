@@ -27,12 +27,12 @@ Here are some ideas to get you started:
   - [GitLab](http://gitlab.com/LoicZHU)
   - [LinkedIn](http://linkedin.com/in/loiczhu)
 
-<div>
-  <span align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" alt="Loïc ZHU's GitHub stats"/>
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&include_all_commits" alt="Loïc ZHU's GitHub stats"/>
   </span>
 
-  <span align="center">
+  <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=6&theme=dracula&layout=compact" alt="Loïc ZHU's most used languages" />
   </span>
-</div>
+</p>
