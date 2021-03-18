@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 - 📜 __Certifications__:
   - Opquast: [expert (945 / 1000)](https://directory.opquast.com/fr/certificat/XMWIV1/)
   - TOSA PHP: [operational (633.33 / 1000)](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4aa1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ)
-- 🧰 JavaScript, TypeScript, Angular, React, MySQL, MongoDB
+- 🧰 JavaScript, TypeScript, Angular, React.js, Node.js, MySQL, MongoDB
 - 🔗 __Links__:
   - [GitLab](http://gitlab.com/LoicZHU)
   - [LinkedIn](http://linkedin.com/in/loiczhu)
 
 ## GitHub stats
 <div>
-  <img width="440" src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits" alt="Loïc ZHU's GitHub stats"/>
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&hide=contribs&include_all_commits" alt="Loïc ZHU's GitHub stats"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=6&theme=dracula&layout=compact" alt="Loïc ZHU's most used languages in his public repositories" />
 </div>
