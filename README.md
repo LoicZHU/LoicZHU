@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=8&theme=dracula&layout=compact&custom_title=Most%20used%20languages" alt="Loïc ZHU's most used languages in his public repositories" />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loiczhu&repo=github-readme-stats)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loiczhu&repo=github-readme-stats)
