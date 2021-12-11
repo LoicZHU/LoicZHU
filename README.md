@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## GitHub statistics
 <div>
-  <img width="440" src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Overview" alt="Loïc ZHU's GitHub stats"/>
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Overview&line_height=33" alt="Loïc ZHU's GitHub stats"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Most%20used%20languages" alt="Loïc ZHU's most used languages in his public repositories" />
 </div>
