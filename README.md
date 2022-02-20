@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+## About him
 - ℹ️ __General__:
   - Languages: french, english (limited), wenzhounese
   - Citizenship: french
