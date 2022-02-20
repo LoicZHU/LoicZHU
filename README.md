@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## About him
 - ℹ️ __General__:
-  - Languages: french, english (limited), wenzhounese
   - Citizenship: french
+  - Languages: french, english <i>(limited)</i>, wenzhounese
 - 📜 __Certifications__:
   - Opquast: expert [(945 / 1000)](https://directory.opquast.com/fr/certificat/XMWIV1/)
   - TOSA PHP: operational [(633.33 / 1000)](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ)
