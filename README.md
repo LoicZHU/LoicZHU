@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 ## About him
 - ℹ️ __General__:
   - Citizenship: french
-  - Languages: french, english <i>(limited)</i>, wenzhounese
+  - Languages:
+    - french
+    - english <i>(limited)</i>
+    - wenzhounese
 - 🧰 __Technologies__:
   - Angular, React.js
   - Express.js
