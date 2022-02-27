@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## About him
 - ℹ️ __General__:
-  - Citizenship: french
-  - Languages: french, english <i>(limited)</i>, wenzhounese
+  - Citizenship: French
+  - Languages: French, English <i>(limited)</i>, Wenzhounese
 - 🧰 __Technologies__:
   - Angular, React.js
-  - Express.js
+  - Express.js, Java JEE
   - MySQL, MongoDB
 - 📜 __Certifications__:
   - Opquast: expert [(945 / 1000)](https://directory.opquast.com/fr/certificat/XMWIV1/)
