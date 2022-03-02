@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Languages: French, English <i>(limited)</i>, Wenzhounese
 - 🧰 __Technologies__:
   - Angular, React.js
-  - Express.js, Java JEE _(in progress)_
+  - Express.js, Java EE _(in progress)_
   - MySQL, MongoDB
 - 📜 __Certifications__:
   - Opquast: expert [(945 / 1000)](https://directory.opquast.com/fr/certificat/XMWIV1/)
