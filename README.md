@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Availability
-- Position: web developer
-- From: early September 2022
-- Type: sandwich course - work/study training program
+- __Position__: web developer
+- __From__: early September 2022
+- __Type__: sandwich course - work/study training program
 
 ## About him
 - ℹ️ __General__:
