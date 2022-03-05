@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Availability
+- Position: web developer
+- From: early September 2022
+- Format: sandwich course / work/study training program
+
 ## About him
 - ℹ️ __General__:
   - Citizenship: French
