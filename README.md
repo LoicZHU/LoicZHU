@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   - Express.js, Java EE _(in progress)_
   - SQL, MongoDB
 - 📜 __Certifications__:
-  - Opquast: [expert](https://directory.opquast.com/fr/certificat/XMWIV1/) (945 / 1000)
-  - TOSA PHP: [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) (633.33 / 1000)
+  - Opquast: [expert](https://directory.opquast.com/fr/certificat/XMWIV1/) _(945 / 1000)_
+  - TOSA PHP: [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(633.33 / 1000)_
 - 🔗 __Links__:
   - GitLab: [@LoicZHU](http://gitlab.com/LoicZHU)
   - LinkedIn: [@loiczhu](http://linkedin.com/in/loiczhu)
