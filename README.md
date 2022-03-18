@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Availability
 - __Position__: web developer
-- __From__: early September 2022
+- __From__: September/October 2022
 - __Type__: sandwich course - work/study training program
 
 ## About him
