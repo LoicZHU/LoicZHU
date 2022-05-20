@@ -25,9 +25,7 @@ Here are some ideas to get you started:
   - Citizenship: French
   - Languages: French, English <i>(limited)</i>, Wenzhounese
 - 🧰 __Technologies__:
-  - Angular, React.js
-  - Express.js, Java EE _(in progress)_
-  - SQL, MongoDB
+  - JavaScript/TypeScript
 - 📜 __Certifications__:
   - Opquast: [expert](https://directory.opquast.com/fr/certificat/XMWIV1/) _(945 / 1,000)_
   - TOSA PHP: [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(633.33 / 1,000)_
