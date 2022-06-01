@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Availability
-- __Position__: web developer
-- __From__: September/October 2022
-- __Type__: sandwich course - work/study training program
-
 ## About him
 - ℹ️ __General__:
   - Citizenship: French
@@ -37,5 +32,5 @@ Here are some ideas to get you started:
 <div>
   <img width="440" src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Overview&line_height=28" alt="Loïc ZHU's GitHub stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Used%20languages%20in%20public%20repos&hide=vue" alt="Loïc ZHU's used languages in public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Used%20languages%20in%20public%20repos.&hide=vue" alt="Loïc ZHU's used languages in public repositories" />
 </div>
