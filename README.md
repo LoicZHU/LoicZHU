@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ![Loïc's CodeWars stats](https://github.r2v.ch/codewars?user=loiczhu&&top_languages=true&stroke=whitesmoke&theme=default)
 
-![Loíc's LeetCode Stats](https://leetcard.jacoblin.cool/loiczhu?theme=nord&font=Lexend)
+![Loíc's LeetCode Stats](https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend)
