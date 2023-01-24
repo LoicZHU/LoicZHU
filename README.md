@@ -34,6 +34,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" alt="Loïc's GitHub streak" />
 </div>
 
-![Loïc's CodeWars stats](https://github.r2v.ch/codewars?user=loiczhu&name=true&top_languages=true&stroke=%23b362ff&theme=default)
+![Loïc's CodeWars stats](https://github.r2v.ch/codewars?user=loiczhu&&top_languages=true&stroke=whitesmoke&theme=default)
 
-![Loïc's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=loiczhu&theme=dark)
+![Loíc's LeetCode Stats](https://leetcard.jacoblin.cool/loiczhu?theme=nord&font=Lexend)
