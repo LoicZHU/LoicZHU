@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ## Statistics
 <div>
-  <img decoding="async" loading="lazy" src="https://gh-profile-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from his public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from his public repositories" />
 </div>
 <div>
-  <img decoding="async" loading="lazy" src="https://gh-profile-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Overview"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Overview"/>
 </div>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" alt="Loïc's GitHub streak" />
