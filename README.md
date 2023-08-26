@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 
 ## About him
 - ℹ️ __General__:
-  - Citizenship: French
   - Languages: French, English
 - 📜 __Certifications__:
   - Opquast (2020): [expert](https://directory.opquast.com/fr/certificat/XMWIV1/) _(945 / 1,000)_
   - TOSA PHP (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(633.33 / 1,000)_
 
-## Statistics
+## Overview
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from his public repositories" />
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Overview"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats"/>
 </div>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" alt="Loïc's GitHub streak" />
