@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - __Other basic knowledge__: network & system administration
   - __Languages__: French, English
 - 📜 __CERTIFICATIONS__
-  - __Opquast__ (2020): [expert [945/1,000]](https://directory.opquast.com/fr/certificat/XMWIV1/)
+  - __Opquast__ (2020): [expert [945/1,000]](https://directory.opquast.com/en/certificat/XMWIV1/)
   - __TOSA on PHP__ (2020): [operational [633/1,000]](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_
 - 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository, feel free to ask me about anything!
 
