@@ -1,4 +1,4 @@
-# Welcome 👋
+  # Welcome 👋
 
 <!--
 **LoicZHU/LoicZHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,16 +25,20 @@ Here are some ideas to get you started:
 - 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository, feel free to ask me about anything!
 
 ## Overview
-<div>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from his public repositories" />
-</div>
-<div>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats"/>
-</div>
-<div>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" alt="Loïc's GitHub streak" />
-</div>
+</p>
 
-![Loïc's CodeWars stats](https://github.r2v.ch/codewars?user=loiczhu&&top_languages=true&stroke=whitesmoke&theme=default)
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" alt="Loïc's CodeWars stats" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" alt="Loïc's LeetCode Stats" /> 
+</p>
 
-![Loíc's LeetCode Stats](https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend)
