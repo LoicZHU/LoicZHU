@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## About him
 - ℹ️ __GENERAL__
-  - __Other basic knowledge__: network & system administration
   - __Languages__: French, English
 - 📜 __CERTIFICATIONS__
   - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
@@ -41,4 +40,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" alt="Loïc's LeetCode Stats" /> 
 </p>
-
+-->
