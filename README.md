@@ -1,6 +1,5 @@
+# Welcome 👋
 <!--
-  # Welcome 👋
-
 **LoicZHU/LoicZHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,14 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ## About him
 - ℹ️ __GENERAL__
   - __Languages__: French, English
+<!--
 - 📜 __CERTIFICATIONS__
   - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
   - __TOSA on PHP__ (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_
+-->
 - 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository, feel free to ask me about anything!
 
 ## Overview
@@ -40,4 +41,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" alt="Loïc's LeetCode Stats" /> 
 </p>
--->
+
