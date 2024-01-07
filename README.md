@@ -53,19 +53,19 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/DiniFarb/codewars_readme_stats">
-    <img 
-      src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" 
-      alt="Loïc's CodeWars stats" 
-    />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
     <img 
       src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
       alt="Loïc's LeetCode Stats" 
     /> 
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DiniFarb/codewars_readme_stats">
+    <img 
+      src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" 
+      alt="Loïc's CodeWars stats" 
+    />
   </a>
 </p>
