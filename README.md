@@ -26,19 +26,46 @@ Here are some ideas to get you started:
 
 ## Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue" alt="Used languages from his public repositories" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue"
+      alt="Used languages from his public repositories" 
+    />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Loïc's GitHub stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" alt="Loïc's GitHub streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&show=reviews&rank_icon=percentile"
+      alt="Loïc's GitHub stats"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" alt="Loïc's CodeWars stats" />
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" alt="Loïc's LeetCode Stats" /> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" 
+      alt="Loïc's GitHub streak" 
+    />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DiniFarb/codewars_readme_stats">
+    <img 
+      src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" 
+      alt="Loïc's CodeWars stats" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+    <img 
+      src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
+      alt="Loïc's LeetCode Stats" 
+    /> 
+  </a>
+</p>
