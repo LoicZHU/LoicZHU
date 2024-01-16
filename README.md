@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 -->
 
 ## About him
-- ℹ️ __GENERAL__
-  - __Languages__: French, English
-<!--
-- 📜 __CERTIFICATIONS__
+- ℹ️ GENERAL
+  - Interests: web development, JavaScript/TypeScript
+  - Languages: French, English
+- 💼 WORK EXPERIENCE:
+  - **Software engineer** at **Criteo**: full-stack development _(Paris, France) [2022 - 2023]_
+  - **Frontend developer** at **Veolia Water Technologies**: frontend application development _(Saint-Maurice, France) [2021 - 2022]_
+- 📜 CERTIFICATIONS
+  - __Google Cloud Platform__ (2023): [Cloud Digital Leader (CDL)](https://www.credential.net/8275dcab-e391-444f-b0d2-7613971f265a)
   - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
   - __TOSA on PHP__ (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_
--->
 - 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository, feel free to ask me about anything!
 
 ## Overview
