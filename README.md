@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - Languages: French, English
 - 💼 WORK EXPERIENCE:
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France) [2022 - 2023]_
-  - **Frontend developer** at **Veolia Water Technologies**: frontend application development _(Saint-Maurice, France) [2021 - 2022]_
+  - **Frontend developer** at **Veolia Water Technologies**: frontend development _(Saint-Maurice, France) [2021 - 2022]_
 - 📜 CERTIFICATIONS
   - __Google Cloud Platform__ (2023): [Cloud Digital Leader (CDL)](https://www.credential.net/8275dcab-e391-444f-b0d2-7613971f265a)
   - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
