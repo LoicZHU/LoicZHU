@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 
 ## About him
 - ℹ️ GENERAL
-  <!--
-  - Interests: web development, JavaScript/TypeScript-->
+  - Interests: web development, JavaScript/TypeScript
   - Languages: French, English
-<!--
 - 💼 WORK EXPERIENCE:
+  - **Full-stack developer** at **elm.leblanc Bosch **: full-stack development _(Drancy, France)_ [2023 - present]
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France)_ [2022 - 2023]
   - **Frontend developer** at **Veolia Water Technologies**: frontend development _(Saint-Maurice, France)_ [2021 - 2022]
 - 📜 CERTIFICATIONS
   - __Google Cloud Platform__ (2023): [Cloud Digital Leader (CDL)](https://www.credential.net/8275dcab-e391-444f-b0d2-7613971f265a)
   - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
-  - __TOSA on PHP__ (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_-->
+  - __TOSA on PHP__ (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_
 - 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository, feel free to ask me about anything!
 
 ## Overview
@@ -56,7 +55,7 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-<!--
+
 <p align="center">
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
     <img 
@@ -74,4 +73,3 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
--->
