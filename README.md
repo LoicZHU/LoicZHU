@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
+      src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
       alt="Loïc's GitHub stats"
     />
   </a>
