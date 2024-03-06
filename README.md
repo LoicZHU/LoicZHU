@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=Languages%20from%20his%20public%20repos.&hide=vue"
-      alt="Used languages from his public repositories" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=From%20his%20public%20repos.&hide=vue"
+      alt="Top languages from his public repositories" 
     />
   </a>
 </p>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
     <img 
       src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
-      alt="Loïc's LeetCode Stats" 
+      alt="loiczhu's LeetCode stats" 
     /> 
   </a>
 </p>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DiniFarb/codewars_readme_stats">
     <img 
       src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" 
-      alt="Loïc's CodeWars stats" 
+      alt="loiczhu's CodeWars stats" 
     />
   </a>
 </p>
