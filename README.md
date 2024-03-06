@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ℹ️ GENERAL
   - Interests: web development, JavaScript/TypeScript
   - Languages: French, English<br/><br/>
-- 💼 WORK EXPERIENCE:
+- 💼 WORK EXPERIENCE
   - **Full-stack developer** at **elm.leblanc Bosch**: full-stack development _(Drancy, France)_ [2023 - present]
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France)_ [2022 - 2023]
   - **Frontend developer** at **Veolia Water Technologies**: frontend development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
