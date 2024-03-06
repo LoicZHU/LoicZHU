@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France)_ [2022 - 2023]
   - **Developer** at **Veolia Water Technologies**: front-end development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
 - 📜 CERTIFICATIONS
-  - __Google Cloud Platform__ (2023): [Cloud Digital Leader (CDL)](https://www.credential.net/8275dcab-e391-444f-b0d2-7613971f265a)
-  - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
-  - __TOSA on PHP__ (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_<br/><br/>
+  - __Google Cloud Platform__: [Cloud Digital Leader (CDL)](https://www.credential.net/8275dcab-e391-444f-b0d2-7613971f265a) [2023]
+  - __Opquast__: [expert](https://directory.opquast.com/en/certificat/XMWIV1/) [2020]
+  - __TOSA on PHP__: [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_ [2020]<br/><br/>
 - 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on his personal repository, feel free to ask him about anything!
 <br/>
 
