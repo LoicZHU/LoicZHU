@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 ## About him
 - ℹ️ GENERAL
   - Interests: web development, JavaScript/TypeScript
-  - Languages: French, English
+  - Languages: French, English<br/><br/>
 - 💼 WORK EXPERIENCE:
-  - **Full-stack developer** at **elm.leblanc Bosch **: full-stack development _(Drancy, France)_ [2023 - present]
+  - **Full-stack developer** at **elm.leblanc Bosch**: full-stack development _(Drancy, France)_ [2023 - present]
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France)_ [2022 - 2023]
-  - **Frontend developer** at **Veolia Water Technologies**: frontend development _(Saint-Maurice, France)_ [2021 - 2022]
+  - **Frontend developer** at **Veolia Water Technologies**: frontend development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
 - 📜 CERTIFICATIONS
   - __Google Cloud Platform__ (2023): [Cloud Digital Leader (CDL)](https://www.credential.net/8275dcab-e391-444f-b0d2-7613971f265a)
   - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
-  - __TOSA on PHP__ (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_
-- 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository, feel free to ask me about anything!
+  - __TOSA on PHP__ (2020): [operational](https://www.isograd.com/FR/verificationcertification.php?param=Uld2bStyVU1FdnRpVFJjZUNWczRxaUM2RHM5aWoyUUR4a1pjL080LzlwUy9aTTJOd3Q1R2ppdFQxMUJGZTFOSW1ObW1QSjI1YitUOFhEWGhCTStrVXc9PTo6LZ3BCjrP6koPvq126090aQ) _(expired)_<br/><br/>
+- 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on his personal repository, feel free to ask him about anything!
+<br/>
 
 ## Overview
 <p align="center">
