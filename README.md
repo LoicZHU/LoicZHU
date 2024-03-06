@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ## About him
 - ℹ️ GENERAL
-  - Interests: web development, primarily focused on JavaScript/TypeScript
-  - Languages: French, English<br/><br/>
+  - **Interests**: web development, primarily focused on JavaScript/TypeScript
+  - **Languages**: French, English<br/><br/>
 - 💼 WORK EXPERIENCE
   - **IT developer** at **elm.leblanc Bosch**: full-stack development _(Drancy, France)_ [2023 - present]
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France)_ [2022 - 2023]
