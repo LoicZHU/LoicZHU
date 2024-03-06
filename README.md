@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   - Interests: web development, JavaScript/TypeScript
   - Languages: French, English<br/><br/>
 - 💼 WORK EXPERIENCE
-  - **Software developer** at **elm.leblanc Bosch**: full-stack development _(Drancy, France)_ [2023 - present]
+  - **IT developer** at **elm.leblanc Bosch**: full-stack development _(Drancy, France)_ [2023 - present]
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France)_ [2022 - 2023]
-  - **Front-end developer** at **Veolia Water Technologies**: front-end and low-code development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
+  - **Developer** at **Veolia Water Technologies**: low-code and mostly front-end development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
 - 📜 CERTIFICATIONS
   - __Google Cloud Platform__ (2023): [Cloud Digital Leader (CDL)](https://www.credential.net/8275dcab-e391-444f-b0d2-7613971f265a)
   - __Opquast__ (2020): [expert](https://directory.opquast.com/en/certificat/XMWIV1/)
