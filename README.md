@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+  <a href="https://leetcode.com/loiczhu/">
     <img 
       src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
       alt="loiczhu's LeetCode stats" 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/DiniFarb/codewars_readme_stats">
+  <a href="https://www.codewars.com/users/loiczhu">
     <img 
       src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" 
       alt="loiczhu's CodeWars stats" 
