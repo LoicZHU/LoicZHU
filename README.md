@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=10&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories&hide=vue"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=20&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories&hide=vue"
       alt="Top languages from his public repositories" 
     />
   </a>
