@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DiniFarb/codewars_readme_stats">
     <img 
-      src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=gradient_dark_by_level" 
+      src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" 
       alt="Loïc's CodeWars stats" 
     />
   </a>
