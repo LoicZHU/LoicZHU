@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - **Interests**: web development, primarily focused on JavaScript/TypeScript
   - **Languages**: French, English<br/><br/>
 - 💼 WORK EXPERIENCE
-  - **IT developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - present]
+  - **IT developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - 2024]
   - **Software engineer** at **Criteo**: full-stack development _(Paris, France)_ [2022 - 2023]
   - **Developer** at **Veolia Water Technologies**: front-end development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
 - 📜 CERTIFICATIONS
@@ -58,19 +58,19 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/loiczhu/">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
     <img 
       src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
-      alt="loiczhu's LeetCode stats" 
+      alt="Loïc's LeetCode stats" 
     /> 
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/loiczhu">
+  <a href="https://github.com/DiniFarb/codewars_readme_stats">
     <img 
       src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=default" 
-      alt="loiczhu's CodeWars stats" 
+      alt="Loïc's CodeWars stats" 
     />
   </a>
 </p>
