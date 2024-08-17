@@ -31,34 +31,28 @@ Here are some ideas to get you started:
 
 ## Overview
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=20&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories&hide=just"
-      alt="Top languages from his public repositories" 
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=20&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories&hide=just"
+    alt="Top languages from his public repositories" 
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
-      alt="Loïc's GitHub stats"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
+    alt="Loïc's GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" 
-      alt="Loïc's GitHub streak" 
-    />
-  </a>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741" 
+    alt="Loïc's GitHub streak" 
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+  <a href="https://leetcode.com/loiczhu">
     <img 
       src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
       alt="Loïc's LeetCode stats" 
@@ -67,7 +61,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/DiniFarb/codewars_readme_stats">
+  <a href="https://www.codewars.com/users/loiczhu">
     <img 
       src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=gradient_dark_by_level" 
       alt="Loïc's CodeWars stats" 
