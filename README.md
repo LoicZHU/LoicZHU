@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     alt="Loïc's GitHub streak" 
   />
 </p>
-
+<hr/>
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
