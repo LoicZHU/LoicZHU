@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ## Overview
 <p align="center">
   <img 
-    style="user-select: none;"
     src="https://gh-profile-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=20&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories&hide=just"
     alt="Top languages from his public repositories" 
   />
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    style="user-select: none;"
     src="https://gh-profile-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
     alt="Loïc's GitHub stats"
   />
@@ -48,8 +46,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    style="user-select: none;"
-    src="https://github-readme-streak-stats-ivory-kappa.vercel.app?user=LoicZHU&theme=dracula&fire=FBB741" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741
     alt="Loïc's GitHub streak" 
   />
 </p>
