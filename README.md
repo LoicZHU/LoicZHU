@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
-      src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend&ext=contest" 
+      src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
       alt="Loïc's LeetCode stats" 
     /> 
   </a>
