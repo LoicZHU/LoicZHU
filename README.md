@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About him
 - ℹ️ GENERAL
-  - **Interests**: Web development & back-end engineering, with a strong focus on JavaScript/TypeScript
+  - **Interests**: Web development & back-end engineering
   - **Languages**: French, English<br/><br/>
 - 💼 WORK EXPERIENCE
   - **IT developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - 2024]
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=LoicZHU&theme=dracula&fire=FBB741"
+    src="https://github-readme-streak-stats-ivory-kappa.vercel.app?user=LoicZHU&theme=dracula&fire=FBB741"
     alt="Loïc's GitHub streak" 
   />
 </p>
