@@ -1,5 +1,6 @@
-# Welcome 👋
 <!--
+# Welcome 👋
+
 **LoicZHU/LoicZHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,17 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Loïc ZHU
+> Web developer
 
-## About him
-- ℹ️ GENERAL
-  - **Interests**: Web development & back-end engineering
-  - **Languages**: French, English<br/><br/>
-- 💼 WORK EXPERIENCE
-  - **IT developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - 2024]
-  - **Software engineer** at **Criteo**: full-stack development _(Remote)_ [2022 - 2023]
-  - **Front-end developer** at **Veolia Water Technologies**: front-end development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
-- 💬 By [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on his personal repository, feel free to ask him about anything!
-<br/>
+👋 Welcome!</br>
+I focus on web development and back-end engineering, aiming to create practical and impactful solutions.
+
+## 🛠️ Most used technologies
+- **Languages**: JavaScript/TypeScript, C#, SQL
+- **Front-end**: Angular
+- **Back-end**: Node, .NET, SQL
+- **Platforms**: GitHub, GitLab
+
+## 💼 Work experience
+- **IT developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - 2024]
+- **Software engineer** at **Criteo**: full-stack development _(Remote)_ [2022 - 2023]
+- **Front-end developer** at **Veolia Water Technologies**: front-end development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
 
 ## Overview
 <p align="center">
@@ -46,7 +52,7 @@ Here are some ideas to get you started:
     alt="Loïc's GitHub streak" 
   />
 </p>
-<hr/>
+
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
@@ -64,3 +70,7 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
+
+---
+
+Feel free to ask me about anything, by [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository!
