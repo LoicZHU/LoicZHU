@@ -31,7 +31,7 @@ I focus on web development and back-end engineering, aiming to create practical 
 - **Software engineer** at **Criteo**: full-stack development _(Remote)_ [2022 - 2023]
 - **Front-end developer** at **Veolia Water Technologies**: front-end development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
 
-## Overview
+## 📊 Overview
 <p align="center">
   <img 
     src="https://gh-profile-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=20&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories&hide=just"
