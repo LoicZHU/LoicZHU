@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > Web developer
 
 👋 Welcome!</br>
-I focus on web development and back-end engineering, aiming to create practical and impactful solutions.
+He focuses on web development and back-end engineering, aiming to create practical and impactful solutions.
 
 ## 🛠️ Most used technologies
 - **Languages**: JavaScript/TypeScript, C#, SQL
@@ -41,20 +41,20 @@ I focus on web development and back-end engineering, aiming to create practical 
 <p align="center">
   <img 
     src="https://gh-profile-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
-    alt="My GitHub stats"
+    alt="Loïc's GitHub stats"
   />
 </p>
 <p align="center">
   <img 
     src="https://github-readme-streak-stats-ivory-kappa.vercel.app?user=LoicZHU&theme=dracula&fire=FBB741"
-    alt="My GitHub streak" 
+    alt="Loïc's GitHub streak" 
   />
 </p>
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
       src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
-      alt="My LeetCode stats" 
+      alt="Loïc's LeetCode stats" 
     /> 
   </a>
 </p>
@@ -62,11 +62,11 @@ I focus on web development and back-end engineering, aiming to create practical 
   <a href="https://www.codewars.com/users/loiczhu">
     <img 
       src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=gradient_dark_by_level" 
-      alt="My CodeWars stats" 
+      alt="Loïc's CodeWars stats" 
     />
   </a>
 </p>
 
 ---
 
-*Feel free to ask me about anything, by [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository!*
+*Feel free to ask him about anything, by [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on his personal repository!*
