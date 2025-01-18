@@ -22,9 +22,9 @@ I focus on web development and back-end engineering, aiming to create practical 
 
 ## 🛠️ Most used technologies
 - **Languages**: JavaScript/TypeScript, C#, SQL
-- **Front-end**: Angular
-- **Back-end**: Node, .NET, SQL
-- **Platforms**: GitHub, GitLab
+- **Front-end**: Angular, React
+- **Back-end**: Node/Express, .NET, SQL
+- **Platforms**: Gerrit, GitHub, GitLab
 
 ## 💼 Work experience
 - **IT developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - 2024]
@@ -38,39 +38,35 @@ I focus on web development and back-end engineering, aiming to create practical 
     alt="Top languages from his public repositories" 
   />
 </p>
-
 <p align="center">
   <img 
     src="https://gh-profile-readme-stats.vercel.app/api?username=loiczhu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
-    alt="Loïc's GitHub stats"
+    alt="My GitHub stats"
   />
 </p>
-
 <p align="center">
   <img 
     src="https://github-readme-streak-stats-ivory-kappa.vercel.app?user=LoicZHU&theme=dracula&fire=FBB741"
-    alt="Loïc's GitHub streak" 
+    alt="My GitHub streak" 
   />
 </p>
-
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
       src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
-      alt="Loïc's LeetCode stats" 
+      alt="My LeetCode stats" 
     /> 
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.codewars.com/users/loiczhu">
     <img 
       src="https://github.r2v.ch/codewars?user=loiczhu&top_languages=true&stroke=whitesmoke&theme=gradient_dark_by_level" 
-      alt="Loïc's CodeWars stats" 
+      alt="My CodeWars stats" 
     />
   </a>
 </p>
 
 ---
 
-Feel free to ask me about anything, by [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository!
+*Feel free to ask me about anything, by [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on my personal repository!*
