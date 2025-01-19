@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # Loïc ZHU
 > Web developer
 
-👋 Welcome!</br>
 He focuses on web development and back-end engineering, aiming to create practical and impactful solutions.
 
 ## 🛠️ Most used technologies
@@ -66,7 +65,3 @@ He focuses on web development and back-end engineering, aiming to create practic
     />
   </a>
 </p>
-
----
-
-*Feel free to ask him about anything, by [creating issues](https://github.com/LoicZHU/LoicZHU/issues/) on his personal repository!*
