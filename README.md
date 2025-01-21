@@ -22,7 +22,7 @@ He focuses on web development and back-end engineering, aiming to create practic
 ## 🛠️ Most used technologies
 - **Languages**: JavaScript/TypeScript, C#, SQL
 - **Front-end**: Angular, React
-- **Back-end**: Node/Express, .NET, SQL
+- **Back-end**: Node (Express), .NET
 - **Platforms**: Gerrit, GitHub, GitLab
 
 ## 💼 Work experience
