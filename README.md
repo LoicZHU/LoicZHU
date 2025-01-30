@@ -49,6 +49,14 @@ He focuses on web development and back-end engineering, aiming to create practic
     alt="Loïc's GitHub streak" 
   />
 </p>
+
+<p align="center">
+  <img 
+    style="width: 33%;"
+    src="https://github.com/user-attachments/assets/cfad15cb-0316-40b3-b912-7ac6945e4f8a" 
+    alt="Loïc's LeetCode rewind 2024"
+  />
+</p>
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
@@ -57,6 +65,7 @@ He focuses on web development and back-end engineering, aiming to create practic
     /> 
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.codewars.com/users/loiczhu">
     <img 
