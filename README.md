@@ -23,10 +23,10 @@ He focuses on web development and back-end engineering, aiming to create practic
 - **Languages**: JavaScript/TypeScript, C#, SQL
 - **Front-end**: Angular, React
 - **Back-end**: Node (Express), .NET
-- **Platforms**: Gerrit, GitHub, GitLab
+- **Platforms**: GitHub, GitLab
 
 ## 💼 Work experience
-- **IT developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - 2024]
+- **Software developer** at **elm.leblanc Bosch**: front-end and mobile development _(Drancy, France)_ [2023 - 2024]
 - **Software engineer** at **Criteo**: full-stack development _(Remote)_ [2022 - 2023]
 - **Front-end developer** at **Veolia Water Technologies**: front-end development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
 
@@ -52,7 +52,7 @@ He focuses on web development and back-end engineering, aiming to create practic
 
 <p align="center">
   <img 
-    style="width: 33%;"
+    style="width: 75%;"
     src="https://github.com/user-attachments/assets/cfad15cb-0316-40b3-b912-7ac6945e4f8a" 
     alt="Loïc's LeetCode rewind 2024"
   />
