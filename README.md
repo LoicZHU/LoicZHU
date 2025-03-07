@@ -60,7 +60,7 @@ He focuses on web development and back-end engineering, aiming to create practic
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
-      src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend&ext=contest" 
+      src="https://leetcard.jacoblin.cool/loiczhu?theme=dark&font=Lexend" 
       alt="Loïc's LeetCode stats" 
     /> 
   </a>
