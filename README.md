@@ -50,6 +50,8 @@ He focuses on web development and back-end engineering, aiming to create practic
   />
 </p>
 
+---
+
 <p align="center">
   <a href="https://leetcode.com/loiczhu">
     <img 
