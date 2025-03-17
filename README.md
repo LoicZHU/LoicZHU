@@ -33,7 +33,7 @@ He focuses on web development and back-end engineering, aiming to create practic
 ## 📊 Overview
 <p align="center">
   <img 
-    src="https://gh-profile-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=20&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories&hide=just"
+    src="https://gh-profile-readme-stats.vercel.app/api/top-langs/?username=loiczhu&langs_count=20&theme=dracula&layout=compact&custom_title=From%20his%20public%20repositories"
     alt="Top languages from his public repositories" 
   />
 </p>
