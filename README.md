@@ -15,18 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Loïc ZHU
-> Web Developer
-
-## 🛠️ Most used technologies
-- **Languages**: JavaScript/TypeScript, C#, Java, Python, SQL
-- **_Front-end_**: Angular, React
-- **_Back-end_**: .NET, Node (Express)
-- **Platforms**: GitHub, GitLab
 
 ## 💼 Work experience
-- **Software Developer** at **elm.leblanc Bosch**: _front-end_ and mobile development _(Drancy, France)_ [2023 - 2024]
-- **Software Engineer** at **Criteo**: _full-stack_ development _(Remote)_ [2022 - 2023]
-- **Front-end Developer** at **Veolia Water Technologies**: _front-end_ development _(Saint-Maurice, France)_ [2021 - 2022]<br/><br/>
+- **Software Developer** at **elm.leblanc Bosch**: _front-end_ and mobile development
+- **Software Engineer** at **Criteo**: _full-stack_ development
+- **Front-end Developer** at **Veolia Water Technologies**: _front-end_ development<br/><br/>
 
 ## 📊 Overview
 <p align="center">
