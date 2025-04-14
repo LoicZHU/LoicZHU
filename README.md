@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 # Loïc ZHU
 
-## 💼 Work experience
-- **Software Developer** at **elm.leblanc Bosch**: _front-end_ and mobile development
-- **Software Engineer** at **Criteo**: _full-stack_ development
-- **Front-end Developer** at **Veolia Water Technologies**: _front-end_ development<br/><br/>
-
 ## 📊 Overview
 <p align="center">
   <img 
